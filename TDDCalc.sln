@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCalc", "TDDCalc\TDDCalc.csproj", "{20EC82A1-6869-48A4-AC16-909A845CC1AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTDDCalc", "TestTDDCalc\TestTDDCalc.csproj", "{0C8A265D-07C9-4B25-A5CA-A579265704AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{20EC82A1-6869-48A4-AC16-909A845CC1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20EC82A1-6869-48A4-AC16-909A845CC1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20EC82A1-6869-48A4-AC16-909A845CC1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8A265D-07C9-4B25-A5CA-A579265704AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8A265D-07C9-4B25-A5CA-A579265704AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8A265D-07C9-4B25-A5CA-A579265704AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8A265D-07C9-4B25-A5CA-A579265704AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
