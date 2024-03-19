@@ -28,7 +28,7 @@ public class UnitTest1
 
         // Act
         int result = calc.Subtract(35, 7);
-        int correct = 28;
+        int correct = -28;
 
         // Assert
         Assert.Equal(correct, result);
